@@ -1,0 +1,81 @@
+CONSTRUCTORREF,YEAR,STATUS,COUNT
+mercedes,2024,Engine,1
+mercedes,2024,Spun off,1
+mercedes,2024,Water pressure,1
+mclaren,2023,Electrical,1
+mclaren,2023,Radiator,1
+mercedes,2023,Brakes,1
+mercedes,2023,Engine,1
+mercedes,2023,Overheating,1
+mclaren,2022,Gearbox,2
+mclaren,2022,Oil leak,1
+mercedes,2022,Hydraulics,1
+mclaren,2021,Power loss,1
+mercedes,2021,Damage,1
+mercedes,2021,Wheel nut,1
+mclaren,2020,Exhaust,1
+mclaren,2020,Power Unit,1
+mercedes,2020,Power Unit,1
+mclaren,2019,Engine,2
+mclaren,2019,Power loss,2
+mclaren,2019,Suspension,1
+mclaren,2019,Wheel,1
+mercedes,2019,Power Unit,1
+mclaren,2018,Gearbox,3
+mclaren,2018,Engine,2
+mclaren,2018,Exhaust,1
+mclaren,2018,Wheel,1
+mercedes,2018,Fuel pressure,1
+mercedes,2018,Hydraulics,1
+mercedes,2018,Puncture,1
+mclaren,2017,Power Unit,5
+mclaren,2017,Engine,3
+mclaren,2017,Driveshaft,1
+mclaren,2017,Fuel pressure,1
+mclaren,2017,Gearbox,1
+mclaren,2017,Vibrations,1
+mercedes,2017,Power Unit,1
+mclaren,2016,Power Unit,2
+mclaren,2016,Battery,1
+mclaren,2016,Brakes,1
+mclaren,2016,Engine,1
+mclaren,2016,Gearbox,1
+mclaren,2016,Oil leak,1
+mclaren,2016,Suspension,1
+mercedes,2016,Engine,1
+mclaren,2015,Gearbox,3
+mclaren,2015,ERS,2
+mercedes,2015,Throttle,2
+mclaren,2015,Brakes,1
+mclaren,2015,Engine,1
+mclaren,2015,Turbo,1
+mclaren,2014,Clutch,2
+mercedes,2014,Brakes,1
+mercedes,2014,Electrical,1
+mercedes,2014,Engine,1
+mercedes,2014,Gearbox,1
+mclaren,2013,Suspension,1
+mclaren,2013,Wheel,1
+mercedes,2013,Electrical,1
+mercedes,2013,Engine,1
+mercedes,2013,Puncture,1
+mercedes,2013,Suspension,1
+mclaren,2012,Electrical,1
+mclaren,2012,Exhaust,1
+mclaren,2012,Fuel pressure,1
+mclaren,2012,Gearbox,1
+mclaren,2012,Puncture,1
+mercedes,2012,Fuel pressure,1
+mercedes,2012,Gearbox,1
+mercedes,2012,Rear wing,1
+mercedes,2012,Wheel nut,1
+mclaren,2011,Gearbox,1
+mclaren,2011,Hydraulics,1
+mclaren,2011,Wheel nut,1
+mercedes,2011,Engine,1
+mercedes,2011,Gearbox,1
+mercedes,2010,Wheel,2
+mclaren,2010,Engine,1
+mclaren,2010,Gearbox,1
+mclaren,2010,Puncture,1
+mercedes,2010,Suspension,1
