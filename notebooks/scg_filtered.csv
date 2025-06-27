@@ -1,0 +1,153 @@
+,CONSTRUCTORREF,YEAR,STATUS,COUNT
+1,mclaren,2010,Collision,3
+2,mclaren,2010,Engine,1
+3,mclaren,2010,Finished,31
+4,mclaren,2010,Gearbox,1
+5,mclaren,2010,Puncture,1
+6,mclaren,2011,Collision,2
+7,mclaren,2011,Finished,33
+8,mclaren,2011,Gearbox,1
+9,mclaren,2011,Hydraulics,1
+10,mclaren,2011,Wheel nut,1
+12,mclaren,2012,Collision,5
+13,mclaren,2012,Electrical,1
+14,mclaren,2012,Exhaust,1
+15,mclaren,2012,Finished,29
+16,mclaren,2012,Fuel pressure,1
+17,mclaren,2012,Gearbox,1
+18,mclaren,2012,Puncture,1
+20,mclaren,2013,Finished,30
+21,mclaren,2013,Suspension,1
+22,mclaren,2013,Wheel,1
+23,mclaren,2013,Withdrew,1
+25,mclaren,2014,Clutch,2
+26,mclaren,2014,Finished,25
+27,mclaren,2014,Retired,1
+31,mclaren,2015,Brakes,1
+32,mclaren,2015,Collision,2
+33,mclaren,2015,ERS,2
+34,mclaren,2015,Engine,1
+35,mclaren,2015,Finished,8
+36,mclaren,2015,Gearbox,3
+37,mclaren,2015,Retired,3
+38,mclaren,2015,Turbo,1
+39,mclaren,2015,Withdrew,1
+41,mclaren,2016,Battery,1
+42,mclaren,2016,Brakes,1
+43,mclaren,2016,Collision,1
+44,mclaren,2016,Collision damage,1
+45,mclaren,2016,Engine,1
+46,mclaren,2016,Finished,13
+47,mclaren,2016,Gearbox,1
+48,mclaren,2016,Oil leak,1
+49,mclaren,2016,Power Unit,2
+50,mclaren,2016,Suspension,1
+53,mclaren,2017,Accident,2
+54,mclaren,2017,Collision,1
+55,mclaren,2017,Collision damage,3
+56,mclaren,2017,Driveshaft,1
+57,mclaren,2017,Engine,3
+58,mclaren,2017,Finished,6
+59,mclaren,2017,Fuel pressure,1
+60,mclaren,2017,Gearbox,1
+61,mclaren,2017,Power Unit,5
+62,mclaren,2017,Vibrations,1
+65,mclaren,2018,Accident,1
+66,mclaren,2018,Collision,1
+67,mclaren,2018,Collision damage,1
+68,mclaren,2018,Engine,2
+69,mclaren,2018,Exhaust,1
+70,mclaren,2018,Finished,10
+71,mclaren,2018,Gearbox,3
+72,mclaren,2018,Retired,1
+73,mclaren,2018,Wheel,1
+75,mclaren,2019,Collision,2
+76,mclaren,2019,Collision damage,1
+77,mclaren,2019,Engine,2
+78,mclaren,2019,Finished,18
+79,mclaren,2019,Power loss,2
+80,mclaren,2019,Suspension,1
+81,mclaren,2019,Wheel,1
+82,mclaren,2019,Withdrew,1
+84,mclaren,2020,Accident,1
+85,mclaren,2020,Collision,1
+86,mclaren,2020,Exhaust,1
+87,mclaren,2020,Finished,22
+88,mclaren,2020,Power Unit,1
+90,mclaren,2021,Collision,1
+91,mclaren,2021,Finished,28
+92,mclaren,2021,Power loss,1
+94,mclaren,2022,Collision,2
+95,mclaren,2022,Finished,32
+96,mclaren,2022,Gearbox,2
+97,mclaren,2022,Oil leak,1
+100,mclaren,2023,Accident,1
+101,mclaren,2023,Collision damage,1
+102,mclaren,2023,Electrical,1
+103,mclaren,2023,Finished,32
+104,mclaren,2023,Radiator,1
+106,mclaren,2024,Finished,47
+108,mercedes,2010,Collision,2
+109,mercedes,2010,Finished,27
+110,mercedes,2010,Suspension,1
+111,mercedes,2010,Wheel,2
+114,mercedes,2011,Accident,1
+115,mercedes,2011,Collision,4
+116,mercedes,2011,Engine,1
+117,mercedes,2011,Finished,20
+118,mercedes,2011,Gearbox,1
+121,mercedes,2012,Collision,5
+122,mercedes,2012,Finished,27
+123,mercedes,2012,Fuel pressure,1
+124,mercedes,2012,Gearbox,1
+125,mercedes,2012,Rear wing,1
+126,mercedes,2012,Retired,1
+127,mercedes,2012,Wheel nut,1
+129,mercedes,2013,Electrical,1
+130,mercedes,2013,Engine,1
+131,mercedes,2013,Finished,33
+132,mercedes,2013,Puncture,1
+133,mercedes,2013,Suspension,1
+135,mercedes,2014,Brakes,1
+136,mercedes,2014,Electrical,1
+137,mercedes,2014,Engine,1
+138,mercedes,2014,Finished,32
+139,mercedes,2014,Gearbox,1
+140,mercedes,2014,Retired,1
+142,mercedes,2015,Finished,35
+143,mercedes,2015,Throttle,2
+144,mercedes,2016,Collision,2
+145,mercedes,2016,Engine,1
+146,mercedes,2016,Finished,39
+148,mercedes,2017,Finished,38
+149,mercedes,2017,Power Unit,1
+151,mercedes,2018,Finished,38
+152,mercedes,2018,Fuel pressure,1
+153,mercedes,2018,Hydraulics,1
+154,mercedes,2018,Puncture,1
+156,mercedes,2019,Accident,1
+157,mercedes,2019,Finished,39
+158,mercedes,2019,Power Unit,1
+160,mercedes,2020,Finished,32
+161,mercedes,2020,Power Unit,1
+163,mercedes,2021,Collision,3
+164,mercedes,2021,Damage,1
+165,mercedes,2021,Finished,38
+166,mercedes,2021,Wheel nut,1
+169,mercedes,2022,Collision,1
+170,mercedes,2022,Collision damage,1
+171,mercedes,2022,Finished,39
+172,mercedes,2022,Hydraulics,1
+173,mercedes,2023,Accident,1
+174,mercedes,2023,Brakes,1
+175,mercedes,2023,Collision,1
+176,mercedes,2023,Disqualified,1
+177,mercedes,2023,Engine,1
+178,mercedes,2023,Finished,38
+179,mercedes,2023,Overheating,1
+180,mercedes,2024,Accident,1
+181,mercedes,2024,Disqualified,1
+182,mercedes,2024,Engine,1
+183,mercedes,2024,Finished,43
+184,mercedes,2024,Spun off,1
+185,mercedes,2024,Water pressure,1
